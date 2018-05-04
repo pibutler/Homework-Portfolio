@@ -61,7 +61,7 @@ body {
 
 /* Center the container */
 #container {
-  width: 50%;
+  width: 100%;
   margin: auto;
   height: 500px;
 
@@ -71,9 +71,17 @@ header {
   border: black solid 2px;
 
 }
+h3 {border: solid black;
+  padding:10%;
+  background: yellow;
+
+}
 
 section {
 border: black solid 2px;
+background: white;
+
+
 
 }
 
