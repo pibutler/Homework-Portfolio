@@ -68,14 +68,36 @@ body {
 }
 
 header {
+  color: white;
   border: black solid 2px;
 
-}
-h3 {border: solid black;
-  padding:10%;
-  background: yellow;
 
 }
+
+div.a {
+    text-indent: 50px;
+}
+
+
+
+div.b{
+
+background: white;
+margin: 30%;
+
+}
+
+h3 {
+   border: solid black;
+  padding:5%;
+  background: yellow;
+  margin: 30%;
+ 
+
+
+}
+
+header h3 em {color: blue; font-family: sans-serif;}
 
 section {
 border: black solid 2px;
