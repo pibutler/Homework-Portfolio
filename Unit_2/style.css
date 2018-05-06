@@ -54,7 +54,14 @@ body {
       background-size: cover;
 }
 
+.column {
+    
+}
 
+/* Clear floats after the columns */
+.row {
+    
+}
 /******************************************
 /* LAYOUT
 /*******************************************/
