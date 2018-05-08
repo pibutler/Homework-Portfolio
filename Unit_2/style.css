@@ -1,10 +1,46 @@
 
 
-body {
-     color: #000;
+
+header {color: #000;
      font-size: 12px;
      line-height: 1.4;
      font-family: Helvetica, Arial, sans-serif;
      background: url(header_bg.jpg) no-repeat center top rgb(134,141,157);
       background-size: cover;
 
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+
+}
+section {color: #000;
+     font-size: 12px;
+     line-height: 1.4;
+     font-family: Helvetica, Arial, sans-serif;
+     background: color: white;
+     padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+
+
+}
+
+.bottom {color: #000;
+     font-size: 12px;
+     line-height: 1.4;
+     font-family: Helvetica, Arial, sans-serif;
+     background: url(header_bg.jpg) no-repeat center top rgb(134,141,157);
+      background-size: cover;
+
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+	   }
+.testimonials { background: url(testimonial_bg.jpg) no-repeat center top rgb(134,141,157);
+      background-size: cover;
+
+
+}
