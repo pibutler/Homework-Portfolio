@@ -54,12 +54,12 @@ body {
       background-size: cover;
 }
 
-.column {
+.column {padding: 35px 70px;
     
 }
 
 /* Clear floats after the columns */
-.row {
+.row {margin: 25%; padding: 70px 70px;
     
 }
 /******************************************
